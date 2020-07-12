@@ -3,7 +3,7 @@
 
 **Description:**
 Are you tired or looking for fun? Check Flappy Bird! It's simple, creative and beautiful. Don't overthink just grab it and use:)
-### [LIVE](https://richboyscrytoo.github.io/Flappy-Bird/)
+### [LIVE](https://vladyslav-vasylenko.github.io/Flappy-Bird/)
 **Technologies used:**
  - HTML
  - CSS
